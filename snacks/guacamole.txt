@@ -3,7 +3,8 @@ Ingredients:
  - onions
  - cilantro
  - salt
- - lime 
+ - lime
+ - tomatoes
  
 Instructions:
 1. mash avocados
