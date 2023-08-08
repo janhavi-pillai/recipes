@@ -5,7 +5,9 @@ Ingredients:
  - salt
  - lime
  - tomatoes
- 
+ - garlic
+
+
 Instructions:
 1. mash avocados
 2. chop onions
